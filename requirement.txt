@@ -68,3 +68,5 @@ watchdog==2.1.9
 zipp==3.10.0
 plotly==5.11.0
 plotly.express==5.11.0
+
+plotly.__version__
