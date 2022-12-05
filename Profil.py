@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import plotly
 import plotly.express as px
 import numpy as np
 from sklearn.utils.validation import joblib
