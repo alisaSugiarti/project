@@ -131,7 +131,7 @@ def submit():
     # pd.DataFrame(test_d)
 
     # load knn
-    knn = joblib.load(filenameModelKnnNorm)
+    knn = joblib.load(filenameModelKnn)
     pred = knn.predict(test_d)
 
     # load gausian
